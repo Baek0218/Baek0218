@@ -27,4 +27,14 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baek0218&layout=compact)](https://github.com/Baek0218/github-readme-stats)
 
+  
+  ### :scroll: Portfolio
+  
+  호스팅|프로젝트|내용|URL 
+  ---|---|---|---|
+  [📔](https://itwillbs19.cafe24.com/login/login) | HiBook | 중고도서거래사이트 | [Click Here!](https://github.com/Baek0218/MESProject.git)
+  [💉](https://itwillbs19.cafe24.com/login/login) | MES주식회사 | 주사기제조공장의 MES생산관리시스템 |[Click Here!](https://github.com/Baek0218/MESProject.git)
+  
+  
+  
 </div>
