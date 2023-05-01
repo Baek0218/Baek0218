@@ -1,5 +1,3 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=Baek0218
-)](벨로그링크)
 
 <div align=center>
   
