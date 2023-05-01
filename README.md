@@ -1,7 +1,7 @@
 
 <div align=center>
   
-  ![header](https://capsule-render.vercel.app/api?type=soft&color=E3C4FF&height=180&section=header&text=Hello%20I'm%20EunSook&fontColor=FFFFFF&fontSize=90&fontAlign=50)
+  ![header](https://capsule-render.vercel.app/api?type=soft&color=E3C4FF&height=160&section=header&text=Hello%20I'm%20EunSook&fontColor=FFFFFF&fontSize=70&fontAlign=50)
 </div>
 
 <div align=center>
@@ -34,5 +34,3 @@
 
 <br/>
 
-   ### portfolio
-   ![백은숙포트폴리오](portfolio/BaekEunSook_portfolio.PDF)
