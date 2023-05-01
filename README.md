@@ -40,7 +40,7 @@
   ### :scroll: Portfolio
   호스팅|프로젝트|내용|URL 
   ---|---|---|---|
-  [📔](https://itwillbs7.cafe24.com/teamProject/main.do) | HiBook | 중고도서거래사이트 | [Click Here!](https://github.com/Baek0218/HiBook_Project.git)
-  [💉](https://itwillbs19.cafe24.com/login/login) | MES주식회사 | 주사기제조공장의 MES생산관리시스템 |[Click Here!](https://github.com/Baek0218/MESProject.git)
+  [📔](http://itwillbs7.cafe24.com/teamProject/main.do) | HiBook | 중고도서거래사이트 | [Click Here!](https://github.com/Baek0218/HiBook_Project.git)
+  [💉](http://itwillbs19.cafe24.com/login/login) | MES주식회사 | 주사기제조공장의 MES생산관리시스템 |[Click Here!](https://github.com/Baek0218/MESProject.git)
   
 </div>
